@@ -29,6 +29,14 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'mysql2'
 
+gem 'activeadmin'
+gem 'devise'
+gem 'active_admin_editor', github: 'ejholmes/active_admin_editor'
+
+gem 'font-awesome-rails'
+gem 'bootstrap-sass', '~>3.2.0'
+gem 'autoprefixer-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
